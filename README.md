@@ -1,1 +1,2 @@
-# Random-Joke-Generator
+# YukYak
+## Random Joke Generator
